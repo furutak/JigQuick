@@ -1,0 +1,77 @@
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\bin\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\bin\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick 2.0\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\bin\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\bin\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick v2.0\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\JigQuick.exe.config
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\EntityFramework.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\Npgsql.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\EntityFramework.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\JigQuick.exe.config
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\EntityFramework.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\Npgsql.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\EntityFramework.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmOmni.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmTipTail.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmDocking.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmTriple.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmMulti.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.Properties.Resources.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.csproj.GenerateResource.Cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmWithJig99.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmNoJig99.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.frmCoilAssy99.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\obj\Debug\JigQuick.csprojResolveAssemblyReference.cache
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\JigQuick.exe.config
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\JigQuick.exe
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\JigQuick.pdb
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\EntityFramework.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\EntityFramework.SqlServer.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\Mono.Security.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\Npgsql.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\EntityFramework.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick_original\MovieDB\bin\Debug1\EntityFramework.SqlServer.xml
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\bin\Debug\Mono.Security.dll
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmCoilAssy99.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmWithJig99.resources
+C:\Users\takusuke.fujii\Desktop\Projects\PQM\JigQuick\MovieDB\obj\Debug\JigQuick.frmNoJig99.resources
+C:\Users\admin\Source\Repos\JigQuick\JigQuick\MovieDB\bin\Debug\JigQuick.exe.config
+C:\Users\admin\Source\Repos\JigQuick\JigQuick\MovieDB\obj\Debug\JigQuick.exe
+C:\Users\admin\Source\Repos\JigQuick\JigQuick\MovieDB\obj\Debug\JigQuick.pdb
